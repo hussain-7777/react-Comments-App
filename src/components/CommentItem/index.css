@@ -1,0 +1,82 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+.comment-con {
+  width: 80vw;
+  font-size: 20px;
+  list-style: none;
+}
+.initial-con {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  margin: 20px 0 20px 0;
+}
+.initial {
+  margin: 0;
+}
+.comment-con1 {
+  display: flex;
+  align-items: flex-end;
+  gap: 20px;
+  width: 100%;
+}
+.postedTime {
+  color: #475569;
+  margin-left: 30px;
+}
+.like-delete-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: 10px 0 20px;
+}
+.like-image,
+.delete-image {
+  height: 30px;
+  margin: -8px 10px;
+}
+.hr-line {
+  width: 80vw;
+}
+button {
+  background: none;
+  outline: none;
+  border: 0;
+  cursor: pointer;
+  font-size: 22px;
+}
+.active {
+  color: #0b69ff;
+}
